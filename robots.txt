@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://highway7017.github.io/car-quote/sitemap.xml
